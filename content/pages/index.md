@@ -21,7 +21,7 @@ blocks:
         https://res.cloudinary.com/protocolai/image/upload/v1649882497/microgen/Hall_of_Fame_grccee_k39etu.png
       alt: Illustration of space shuttles
     label: ''
-    headline: Microgen
+    headline: Mosaia
     subhead: A site builder for Web3
     body: |
       Make modern Web3 ready websites with a real-time visual editor.
@@ -198,7 +198,7 @@ blocks:
     navigationLabel: Made with Microgen
     _template: photoCards
 meta:
-  pageTitle: Microgen
+  pageTitle: Mosaia
   pageDescription: Make modern web 3.0 ready websites with a real-time visual editor.
 ---
 
